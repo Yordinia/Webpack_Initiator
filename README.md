@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mussie.png" alt="logo" width="300px"  height="300px" />
+  <img src="yordi.png" alt="logo" width="300px"  height="300px" />
   <br/>
   <h3><b>Webpack App Starter</b></h3>
 </div>
