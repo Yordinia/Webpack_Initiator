@@ -1,7 +1,7 @@
 {
   "name": "webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "<div align=\"center\">\r   <img src=\"Yordi.png\" alt=\"logo\" width=\"300px\"  height=\"300px\" />\r   <br/>\r   <h3><b>Webpack App Starter</b></h3>\r </div>",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
