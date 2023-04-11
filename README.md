@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='url(https://github.com/Yordinia/Webpack_Initiator/blob/main/Yordi.png)' alt="logo" width="300px"  height="300px" />
+  <img src="url(https://github.com/Yordinia/Webpack_Initiator/blob/main/Yordi.png)" alt="logo" width="300px"  height="300px" />
   <br/>
   <h3><b>Webpack App Starter</b></h3>
 </div>
