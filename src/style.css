@@ -1,9 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
+  background-color: bisque;
 }
 
-body {
-    background-color:coral;
+p {
+  text-transform: uppercase;
 }
