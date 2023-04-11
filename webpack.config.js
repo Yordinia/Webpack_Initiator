@@ -10,7 +10,7 @@ module.exports = {
   },
   // devtool: 'inline-source-map',
   devServer: {
-    static: './distt', // Serve static files from the 'dist' directory
+    static: './dist', // Serve static files from the 'dist' directory
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -19,7 +19,7 @@ module.exports = {
   ],
   output: {
     filename: '[name].bundle.js', // Use the entry point name for the bundle filename
-    path: path.resolve(__dirname, 'distt'), // Output to the 'distt' directory
+    path: path.resolve(__dirname, 'dist'), // Output to the 'distt' directory
     clean: true, // Clean the output directory before building
   },
   module: {
