@@ -6,7 +6,7 @@
 
 This is a simple starter project for building web applications using Webpack. It includes configuration files for development and production builds, as well as basic file structure for a typical web app.
 
-# ![Deployed link](https://yordinia.github.io/Webpack_Initiator/)
+# [Deployed link](https://yordinia.github.io/Webpack_Initiator/)
 
 ## Getting Started
 
