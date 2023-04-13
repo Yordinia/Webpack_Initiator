@@ -39,7 +39,7 @@ To create a production build, run the following command:
   npm run build
 ```
 
-This will create a production-ready build of your application in the dist folder.
+This will create a production-ready build of your application in the docs folder.
 
 ## Configuration
 
