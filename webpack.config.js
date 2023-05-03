@@ -11,6 +11,8 @@ module.exports = {
   // devtool: 'inline-source-map',
   devServer: {
     static: './docs', // Serve static files from the 'dist' directory
+    port: 2000,
+    open: true,
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -21,6 +23,9 @@ module.exports = {
     filename: '[name].bundle.js', // Use the entry point name for the bundle filename
     path: path.resolve(__dirname, 'docs'), // Output to the 'distt' directory
     clean: true, // Clean the output directory before building
+  },
+  optimization: {
+    runtimeChunk: 'single',
   },
   module: {
     rules: [
