@@ -62,4 +62,5 @@ The source directory contains:
 
 ## License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Yordinia/yordinia/blob/main/LICENSE.md
+) licensed.
