@@ -4,14 +4,13 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  mode: 'development',
   entry: {
     index: './src/index.js', // Entry point for the application
   },
   // devtool: 'inline-source-map',
   devServer: {
     static: './dist', // Serve static files from the 'dist' directory
-    port: 2000,
+    port: 3000,
     open: true,
   },
   plugins: [
